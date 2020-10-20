@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+ background-image: url("/cours/IntegrationWeb/TD4/img/sahara.jpg");
+ background-size: cover;
+ display: block;
+}
+.Titre{
+    text-align: center;
+    font-weight: 200px;
+    font-size: larger;    
+    text-align: center;
+
+}
+img{  
+    align-items: center;
+    width: 115px;
+}
+.alternatif{
+    display: flex;
+    background-color: tan;
+    width: 1905px;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gd{
+    display: flex;
+}
+.Bg{
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    margin: 25px;
+    width: 70px;
+    padding: 17px;
+}
+.lisa{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+.saxo{
+    text-align: center;
+    font-size: 30px;
+    margin: 25px;
+    width: 70px;
+    padding: 17px;
+}
+.vegan{
+    text-align: center;
+    font-size: 30px;
+    margin: 25px;
+    width: 70px;
+    padding: 17px;
+}
+.a{
+    text-align: center;
+    font-size: 30px;
+    margin: 25px;
+    width: 70px;
+    padding: 17px;
+}
+        
